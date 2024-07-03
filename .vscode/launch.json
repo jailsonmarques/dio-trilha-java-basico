@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExemploExcecao",
+      "request": "launch",
+      "mainClass": "ExemploExcecao",
+      "projectName": "conta-banco_5cdd053c"
+    },
+    {
+      "type": "java",
+      "name": "ExemploWhile",
+      "request": "launch",
+      "mainClass": "ExemploWhile",
+      "projectName": "conta-banco_5cdd053c"
+    },
+    {
+      "type": "java",
+      "name": "ExemploForArray",
+      "request": "launch",
+      "mainClass": "ExemploForArray",
+      "projectName": "conta-banco_5cdd053c"
+    },
+    {
+      "type": "java",
+      "name": "ExemploFor",
+      "request": "launch",
+      "mainClass": "ExemploFor",
+      "projectName": "conta-banco_5cdd053c"
+    },
+    {
+      "type": "java",
+      "name": "SistemaMedida",
+      "request": "launch",
+      "mainClass": "SistemaMedida",
+      "projectName": "conta-banco_5cdd053c"
+    },
+    {
+      "type": "java",
+      "name": "ResultadoEscolar",
+      "request": "launch",
+      "mainClass": "ResultadoEscolar",
+      "projectName": "conta-banco_5cdd053c"
+    },
+    {
+      "type": "java",
+      "name": "CaixaEletronico",
+      "request": "launch",
+      "mainClass": "CaixaEletronico",
+      "projectName": "conta-banco_5cdd053c"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
